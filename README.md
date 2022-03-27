@@ -6,20 +6,8 @@ For further details, please check the report.
 
 ## Dataset
 Here some sample images from the Market 1501 dataset. 
-![dataset](https://user-images.githubusercontent.com/51090995/151345687-c329e100-0767-4968-b8c0-d90308da3c6c.png)
+![dataset](https://github.com/razacode/Attribute-recognition-and-reidentification-Market1501-dataset/blob/main/img/dataset-1.png)
 Each subject is captured from multiple cameras in different moments. Are present also some junk images or distractors as you can observe in the last row
-## Dataset
-
-The dataset used for this project is a version
-of the Market-1501 person re-identification dataset.
-
-![alt text](https://github.com/ZizZu94/market-1501-classification-reid/blob/main/img/dataset.png?raw=true)
-
-Each image in the dataset corresponds to a tight crop of a pedestrian
-and the same person appears multiple times in the dataset.
-Moreover, while the differences between some persons are
-marked and easy to spot, some other cases are difficult to
-distinguish.
 
 ## Dependencies
 
@@ -72,7 +60,7 @@ train directory into a train and a validation dataset and used
 them to train a model that given the image of a pedestrian
 predicts the following attributes:
 
-![alt text](https://github.com/ZizZu94/market-1501-classification-reid/blob/main/img/dataset-2.png?raw=true)
+![alt text](https://github.com/razacode/Attribute-recognition-and-reidentification-Market1501-dataset/blob/main/img/dataset-2.png)
 
 ## ReIdentification task
 
